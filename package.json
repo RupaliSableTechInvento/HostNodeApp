@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "`myfirst`.js",
-  "start": "node myFirst.js",
+  "scripts": {
+    "start": "node myFirst.js"
+},
   "author": "",
   "license": "ISC"
 }
