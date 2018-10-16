@@ -2,7 +2,7 @@
   "name": "hostnodeapp",
   "version": "1.0.0",
   "description": "",
-  "main": "`myFirst`.js",
+  "main": "`myfirst`.js",
   "start": "node myFirst.js",
   "author": "",
   "license": "ISC"
